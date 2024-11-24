@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsConsoleApp", "..\JenkinsConsoleApp\JenkinsConsoleApp.csproj", "{82373A58-E5EA-4030-BDA4-ED9FEA3BF567}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsConsoleApp", "JenkinsConsoleApp\JenkinsConsoleApp.csproj", "{2EFEC8DD-97E3-4A6B-9E6B-54CF8511EB80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsConsoleApp.Test", "..\JenkinsConsoleApp.Test\JenkinsConsoleApp.Test.csproj", "{C65BD0C4-6C7F-4837-AC32-F876BCCE3EB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsConsoleApp.Test", "JenkinsConsoleApp.Test\JenkinsConsoleApp.Test.csproj", "{54FEC78C-FFFB-4A70-8110-31D108205CAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82373A58-E5EA-4030-BDA4-ED9FEA3BF567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82373A58-E5EA-4030-BDA4-ED9FEA3BF567}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82373A58-E5EA-4030-BDA4-ED9FEA3BF567}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82373A58-E5EA-4030-BDA4-ED9FEA3BF567}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C65BD0C4-6C7F-4837-AC32-F876BCCE3EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C65BD0C4-6C7F-4837-AC32-F876BCCE3EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C65BD0C4-6C7F-4837-AC32-F876BCCE3EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C65BD0C4-6C7F-4837-AC32-F876BCCE3EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFEC8DD-97E3-4A6B-9E6B-54CF8511EB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFEC8DD-97E3-4A6B-9E6B-54CF8511EB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFEC8DD-97E3-4A6B-9E6B-54CF8511EB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFEC8DD-97E3-4A6B-9E6B-54CF8511EB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FEC78C-FFFB-4A70-8110-31D108205CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FEC78C-FFFB-4A70-8110-31D108205CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FEC78C-FFFB-4A70-8110-31D108205CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FEC78C-FFFB-4A70-8110-31D108205CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
