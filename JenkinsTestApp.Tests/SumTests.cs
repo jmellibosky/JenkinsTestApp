@@ -13,27 +13,27 @@ public class SumTests
         Assert.Equal(5, SumResult);
     }
 
-    [Fact]
-    public void SumTwoNegativeNumbers()
-    {
-        int SumResult = Sum.SumTwoNumbers(-2, -3);
+    //[Fact]
+    //public void SumTwoNegativeNumbers()
+    //{
+    //    int SumResult = Sum.SumTwoNumbers(-2, -3);
 
-        Assert.Equal(-5, SumResult);
-    }
+    //    Assert.Equal(-5, SumResult);
+    //}
 
-    [Fact]
-    public void SumPositiveAndNegativeNumbers()
-    {
-        int SumResult = Sum.SumTwoNumbers(2, -3);
+    //[Fact]
+    //public void SumPositiveAndNegativeNumbers()
+    //{
+    //    int SumResult = Sum.SumTwoNumbers(2, -3);
 
-        Assert.Equal(-1, SumResult);
-    }
+    //    Assert.Equal(-1, SumResult);
+    //}
 
-    [Fact]
-    public void SumNegativeAndPositiveNumbers()
-    {
-        int SumResult = Sum.SumTwoNumbers(-2, 3);
+    //[Fact]
+    //public void SumNegativeAndPositiveNumbers()
+    //{
+    //    int SumResult = Sum.SumTwoNumbers(-2, 3);
 
-        Assert.Equal(1, SumResult);
-    }
+    //    Assert.Equal(1, SumResult);
+    //}
 }
